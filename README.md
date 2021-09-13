@@ -4,6 +4,6 @@
 </p>
 
 
-<p align="center">Currently a <strong>College Student.</strong>Majoring in 👇 <br /><strong>International Economy and Trade & Commercial English</strong></p>
+<p align="center">👇 Currently a <strong>College Student.</strong>Majoring in 👇 <br /><strong>International Economy and Trade </strong><br />👇 and Minoring in 👇<br /><strong>Commercial English </strong></p>
 
 
