@@ -10,8 +10,6 @@
 💾 I'm a full stack developer with <strong>Go</strong>, <strong>Python</strong> and <strong>JavaScript</strong><br /></span>
 
 
-<span><img align="right" src="https://github-readme-stats.vercel.app/api?username=Samueli924&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /></span>
-
 # 🎯 2021 Goal
 Pass the Postgraduate Entrance Examination and admit to the ideal college!!!
 
