@@ -3,11 +3,11 @@
    <h3 align="center">Hi 👋! This is SamuelChen</h3>
 </p>
 
-<p align="center">👇 Currently a <strong>College Student.</strong>Majoring in 👇 <br /><strong>International Economy and Trade </strong><br />👇 and Minoring in 👇<br /><strong>Commercial English </strong></p>
+<p align="center">👇 Currently a <strong>Product Manager.</strong>My major was👇 <br /><strong>International Economy and Trade </strong><br />👇 and I minored in 👇<br /><strong>Commercial English </strong> during College period</p>
 
 # 📚 About Me
-💾 full stack developer with <strong>Go</strong>, <strong>Python</strong> and <strong>JavaScript</strong><br /></span>
+💾 full stack developer with <strong>Go</strong>, <strong>Python</strong>, <strong>HTML5+CSS3</strong> and <strong>JavaScript</strong><br /></span>
 
 
-# 🎯 2022 Goal
+# 🎯 2023 Goal
 Fighting!!!
