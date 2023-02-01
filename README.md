@@ -3,7 +3,7 @@
    <h3 align="center">Hi 👋! This is SamuelChen</h3>
 </p>
 
-<p align="center">👇 Currently a <strong>Product Manager.</strong>My major was👇 <br /><strong>International Economy and Trade </strong><br />👇 and I minored in 👇<br /><strong>Commercial English </strong><br />in college</p>
+<p align="center">👇 Currently a <strong>Product Manager.</strong>My major was👇 <br /><strong>International Economy and Trade </strong><br />👇 and I minored in 👇<br /><strong>Commercial English </strong></p>
 
 # 📚 About Me
 💾 full stack developer with <strong>Go</strong>, <strong>Python</strong>, <strong>HTML5+CSS3</strong> and <strong>JavaScript</strong><br /></span>
