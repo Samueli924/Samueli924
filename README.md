@@ -6,7 +6,7 @@
 <p align="center">👇 Currently a <strong>Product Manager.</strong>My major was👇 <br /><strong>International Economy and Trade </strong><br />👇 and I minored in 👇<br /><strong>Commercial English </strong></p>
 
 # 📚 About Me
-💾 full stack developer with <strong>Go</strong>, <strong>Python</strong>, <strong>HTML5+CSS3</strong> and <strong>JavaScript</strong><br /></span>
+💾 full stack developer with <strong>Go</strong>, <strong>Python</strong>, <strong>Vue.js</strong>, <strong>HTML5+CSS3</strong> and <strong>JavaScript</strong><br /></span>
 
 
 # 🎯 2023 Goal
